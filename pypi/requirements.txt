@@ -1,0 +1,10 @@
+colorama - done
+gTTs
+art
+pgzero
+easygui
+customtkinter
+streamlit
+flet
+gradio
+
